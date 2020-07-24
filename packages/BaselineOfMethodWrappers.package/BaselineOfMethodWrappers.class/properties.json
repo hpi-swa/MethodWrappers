@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfMethodWrappers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfMethodWrappers",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

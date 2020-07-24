@@ -1,4 +1,4 @@
 OrderedDictionary {
-	'packages/MethodWrappers' : #SquotTonelSerializer,
-	'packages/BaselineOfMethodWrappers' : #SquotTonelSerializer
+	'packages/BaselineOfMethodWrappers.package' : #SquotCypressCodeSerializer,
+	'packages/MethodWrappers.package' : #SquotCypressCodeSerializer
 }
